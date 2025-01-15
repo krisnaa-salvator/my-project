@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Sample Page</title>
+    </head>
+    <body>
+        <h1>not this time</h1>
+        <script>
+        let person = {
+            name: "bobby",
+            age: 30,
+            greet: function() {
+                console.log("hello, my name is "  + this.name);
+            }
+        };
+        console.log(person.name);
+        person.greet();
+        let num = 10;
+        let num2 = 20;
+        console.log(num + num2 );
+        </script>
+    </body>
+</html>
+set -x
