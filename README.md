@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @krisnaa-salvator
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript and other programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Next.js App Router Course - Starter
 
-<!---
-krisnaa-salvator/krisnaa-salvator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
